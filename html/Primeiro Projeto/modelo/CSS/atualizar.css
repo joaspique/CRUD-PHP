@@ -1,0 +1,68 @@
+body {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: aliceblue;
+}
+
+#principal {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+
+    flex-direction: column;
+    align-items: center;
+
+    background-color: white;
+}
+
+label {
+    margin: 10px;
+    font-size: x-large;
+}
+
+input {
+    margin: 10px;
+    width: 300px;
+    height: 20px;
+}
+
+.botoes {
+    display: flex;
+
+    width: 260px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+button {
+    margin: 10px;
+    border: 0;
+
+    width: 100px;
+    height: 30px;
+
+    color: white;
+    background-color: #1DB314;
+}
+
+a {
+    padding: 5px 25px;
+
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+}

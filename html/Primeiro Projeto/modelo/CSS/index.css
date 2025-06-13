@@ -1,0 +1,72 @@
+body {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: aliceblue;
+}
+
+container {
+    position: relative;
+
+    padding: 30px;
+
+    top: 200px;
+
+    background-color: white;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+table {
+    border: 2px solid black;
+    font-size: x-large;
+}
+
+tr {
+    margin: 20px;
+    width: 300px;
+}
+
+th {
+    padding: 10px 30px;
+}
+
+a, button{
+    padding: 5px 25px;
+
+    text-decoration: none;
+    font-size: 16px;
+
+    color: white;
+    background-color: gray;
+}
+
+button {
+    border: none;
+}
+
+#editar {
+    background-color: deepskyblue;
+}
+
+#excluir {
+    background-color: red;
+}
+
+#inserir {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    height: 20px;
+
+    background-color: #1DB314;
+}

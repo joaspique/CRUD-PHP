@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fed85c63-bf17-415c-8efc-cebccdfeb102" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache/modelo.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Ex000/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Ex001/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/infraetrutura/Banco_dados.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/infraetrutura/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/CSS/atualizar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/CSS/deletar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/CSS/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/CSS/inserir.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/atualizar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Primeiro Projeto/modelo/inserir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/test/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/apache2/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/apache2/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/apache2/other_vhosts_access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meusistema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yQIX7VN1chLM4pD8hddQSdk9TY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/joassilva/CRUD-PHP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PS-251.25410.148" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.25410.148" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="HTML" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fed85c63-bf17-415c-8efc-cebccdfeb102" name="Changes" comment="" />
+      <created>1749760407018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749760407018</updated>
+      <workItem from="1749760408180" duration="2129000" />
+      <workItem from="1749836831624" duration="2974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
